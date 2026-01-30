@@ -1,3 +1,25 @@
+# Lampac
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+### ⚠️ Важно
+
+**Это последний доступный код проекта.**  
+Репозиторий больше не поддерживается и не доступен автором Lampaca.
+
+**🙋 Ищем maintainera**  
+Если вы хотите взять на себя поддержку и развитие проекта — создайте [issue](https://github.com/lampac-talks/lampac/issues) или свяжитесь с сообществом.
+
+</td>
+</tr>
+</table>
+
+---
+
 # AI Документация
 
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lampac-talks/lampac)
@@ -39,7 +61,7 @@ curl -L -k -s https://lampac.sh/home | bash
 docker run -d -p 9118:9118 --restart always --name lampac lampac-talks/lampac
 ```
 
-__tags__: latest (linux/amd64) / arm32 (linux/arm/v7) / arm64 (linux/arm64/v8)
+**tags**: latest (linux/amd64) / arm32 (linux/arm/v7) / arm64 (linux/arm64/v8)
 
 # Запуск в Android
 
